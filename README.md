@@ -4,3 +4,5 @@ sanju
 bk
 sanju 
 jenjins
+docker 
+image
